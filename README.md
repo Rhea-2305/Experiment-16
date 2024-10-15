@@ -16,6 +16,8 @@ Visual Studio Code
 ## Output
 ![image](https://github.com/user-attachments/assets/20d5cfac-9770-4ab5-b198-09009f7d884f)
 
+![image](https://github.com/user-attachments/assets/18e27fed-b6db-47ba-a98c-c07c84912900)
+
 ## Conclusion
 We applied exception handling in C++ to check whether a negative or positive integer.
 
@@ -27,3 +29,9 @@ Prompt the user to enter a year greater than 2000. If the user enters the year g
 Visual Studio Code
 
 ## Output
+![image](https://github.com/user-attachments/assets/04c1588f-bddd-4bbd-9ee2-7ef30bc7bf44)
+
+![image](https://github.com/user-attachments/assets/a97e3c97-fd87-49cf-b169-c99702660bcd)
+
+## Conclusion
+We applied exception handling in C++ to check whether the entered year belongs to the 21st century or not.
